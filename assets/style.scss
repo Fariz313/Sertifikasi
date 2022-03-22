@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import "~bootstrap/scss/bootstrap";
+* {
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background: rgba(19, 19, 19, 0.9);
+  overflow-x: hidden;
+}
+.main-page {
+  padding-left: 164px;
+  padding-right: 164px;
+}
+.navbar {
+  padding-top: 54px;
+  font-size: 18px;
+}
+.navbar-title {
+  font-size: 25px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.absoluteCenter {
+  position: absolute;
+  top: 40%;
+  transform: translate(0, -50%);
+}
+.astro {
+  animation: float 6s ease-in-out infinite;
+}
+@keyframes float {
+  0% {
+    transform: translatey(0px);
+  }
+  50% {
+    transform: translatey(-20px);
+  }
+  100% {
+    transform: translatey(0px);
+  }
+}
+.glassmorph {
+  background: linear-gradient(126.6deg, rgba(255, 255, 255, 0.15) 28.69%, rgba(255, 255, 255, 0) 100%);
+  backdrop-filter: blur(140px);
+  border-radius: 24.5221px;
+}
+.purpleButton {
+  background: #9067AC;
+  backdrop-filter: blur(140px);
+  color: white;
+  width: 150px !important;
+  /* Note: backdrop-filter has minimal browser support */
+
+  border-radius: 24px;
+}
+.purpleButton:hover{
+  color: rgb(196, 196, 196);
+}
+.blueGradient{
+  position: absolute;
+  width: 1440px;
+  height: 900px;
+  z-index: -1;
+  background: #465072;
+  filter: blur(500px);
+}
+.rounded-smooth{
+  border-radius: 30px;
+}
+hr {
+  border: 3px solid rgb(255, 255, 255);
+  border-radius: 5px;
+  z-index: 3;
+}
