@@ -5,7 +5,7 @@
     <h2 class="mt-4">Awareness</h2>
     <p>Sertifikasi digital sebagai solusi mudah untuk sertifikasi profesi</p>
     <h2 class="mt-4">Acquisition</h2>
-    <p>Bekerjasama dengan partner yang tepat.</p>
+    <p>Bekerjasama dengan BNSP sebagai partner yang tepat..</p>
     <h2 class="mt-4">Activation</h2>
     <p>
       Meberikan layanan sertifikasi yang dapat diakses dari mana saja, kapanpun,
