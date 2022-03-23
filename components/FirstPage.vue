@@ -12,9 +12,9 @@
                 Klik di bawah ini.
               </p>
               <div>
-                <button class="btn purpleButton fw-light w-50 rounded-pill">
+                <a href="#background" class="btn purpleButton fw-light w-50 rounded-pill">
                   Selanjutnya
-                </button>
+                </a>
               </div>
             </div>
           </div>

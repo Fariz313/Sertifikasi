@@ -3,7 +3,7 @@
     <div>
       <Navbar />
       <FirstPage />
-      <Backgroun />
+      <Backgroun id="background" />
       <Problem />
       <Potention />
       <Persona />
