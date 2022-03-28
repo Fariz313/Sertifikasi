@@ -5,6 +5,8 @@
       <FirstPage />
       <Backgroun id="background" />
       <Problem />
+      <Visi/>
+      <Solution/>
       <Potention />
       <Persona />
       <Pirate />
