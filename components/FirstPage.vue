@@ -5,10 +5,10 @@
             <div class="absoluteCenter">
               <h5>Halo, Selamat Datang</h5>
               <h1 class="fw-bold">
-                Sertifikasi Digital secara mudah dan cepat
+                Training Digital secara mudah dan cepat
               </h1>
               <p>
-                Dapatkan informasi lebih banyak. <br />
+               Dapatkan online training untuk persiapan sertifikasi profesi. <br />
                 Klik di bawah ini.
               </p>
               <div>
